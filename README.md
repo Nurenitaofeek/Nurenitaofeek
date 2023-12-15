@@ -8,7 +8,7 @@
 
 ### Hi there and welcome to my Github page 👋
 
-I am NURENI Taofeek and I am a web developer. I do a lot of things, some of them you may even find interesting 🤞.
+I am NURENI Taofeek, a graduate Civil engineer from Obafemi Awolowo University and I am a web developer. I do a lot of things, some of them you may even find interesting 🤞.
 
 ---
 
