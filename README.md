@@ -1,10 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm NURENI Taofeek Adesola </h1>
+<h1 align="center">Hi 👋, I'm Taofeek  </h1>
 
 
-![Taofeek Adesola Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Taofeek%20Vikram%20Singh%20Banner.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+web+developer+with+true+passion))](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Taofeek</h2>
+<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
+
+### Hi there and welcome to my Github page 👋
+
+I am NURENI Taofeek and I am a web developer. I do a lot of things, some of them you may even find interesting 🤞.
+
+---
+
+### What do I do?
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
