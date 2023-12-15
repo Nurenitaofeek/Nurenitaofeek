@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm NURENI Taoffek Adesola </h1>
+<h1 align="center">Hi 👋, I'm NURENI Taofeek Adesola </h1>
 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Taofeek Adesola Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Taofeek%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Taofeek</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
