@@ -28,8 +28,9 @@ I am NURENI Taofeek Adesola, a graduate Civil engineer from Obafemi Awolowo Univ
 ---
 
 - I am currently at my learning process of  **WEB Deveolopment Full-Stack** 
-- I have built some projects using HTML and CSS. Among which is <a href="https://> 
-- I have been issued certicicate on some of programming language have succesfully learnt and completed.You can have a look at
+- I have built some projects using HTML and CSS. Among which is <a href="https://nurenitaofeek.github.io/project1/"> MetaBnB Project </a>
+- I have been issued certicicate on some of programming language have succesfully learnt and completed.You can have a look at <a href="https://api2.sololearn.com/v2/certificates/CC-KKT38IOV/image/png"> HTML CERTIFICATE </a>  <a href="https://api2.sololearn.com/v2/certificates/CC-FXUGIS3D/image/png"> CSS CERTIFICATE </a>  
+
 
   ### Send me a message!
   
