@@ -13,6 +13,8 @@ I am NURENI Taofeek, a graduate Civil engineer from Obafemi Awolowo University a
 ---
 
 ### What do I do?
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=React&logoColor=black&labelColor=%2361DAFB)
+
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
