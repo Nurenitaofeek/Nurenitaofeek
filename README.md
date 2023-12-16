@@ -8,12 +8,27 @@
 
 ### Hi there and welcome to my Github page 👋
 
-I am NURENI Taofeek, a graduate Civil engineer from Obafemi Awolowo University and I am a web developer. I do a lot of things, some of them you may even find interesting 🤞.
+I am NURENI Taofeek Adesola, a graduate Civil engineer from Obafemi Awolowo University and I am a web developer. I do a lot of things, some of them you may even find interesting 🤞.
 
 ---
 
 ### What do I do?
+<p>
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%2061DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%20E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black&color=%231572B6">
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/ANGULAR-0F0F11?style=for-the-badge&logo=Angular&logoColor=%23DD1100&labelColor=black&color=%23DD1100">
+<img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=%237952B3&labelColor=black&color=%237952B3">
+<img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-%23339933?style=for-the-badge&logo=Node.js&logoColor=%23339933&labelColor=black&color=%23339933">
+<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%234479A1&labelColor=black&color=%234479A1">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=%23512BD4&labelColor=black&color=%23512BD4">
+</p>
+
+
+
+
+
 
 
 
