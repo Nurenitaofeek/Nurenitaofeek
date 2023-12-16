@@ -29,13 +29,17 @@ I am NURENI Taofeek Adesola, a graduate Civil engineer from Obafemi Awolowo Univ
 
 - I am currently at my learning process of  **WEB Deveolopment Full-Stack** 
 - I have built some projects using HTML and CSS. Among which is <a href="https://nurenitaofeek.github.io/project1/"> MetaBnB Project </a>
-- I have been issued certicicate on some of programming language have succesfully learnt and completed.You can have a look at <a href="https://api2.sololearn.com/v2/certificates/CC-KKT38IOV/image/png"> HTML CERTIFICATE </a>  <a href="https://api2.sololearn.com/v2/certificates/CC-FXUGIS3D/image/png"> CSS CERTIFICATE </a>  
+- I have been issued certicicate on some of programming language have succesfully learnt and completed. You can have a look at <a href="https://api2.sololearn.com/v2/certificates/CC-KKT38IOV/image/png"  style="text-decoration: none"> HTML CERTIFICATE </a> and <a href="https://api2.sololearn.com/v2/certificates/CC-FXUGIS3D/image/png"> CSS CERTIFICATE </a> 
 
 
   ### Send me a message!
   
 - I am open for collaboration. You are feel free to send me message! Even if u don't, send me a message anyway! Here is where you can find me
 
+<p>
+<a href="https://https://twitter.com/Adeshola_12"> <img alt="Static Badge" src="https://img.shields.io/badge/TWITTER-%231D9BF0?style=for-the-badge&logo=Twitter&logoColor=%231D9BF0&labelColor=black&color=%231D9BF0"> </a>
+<a href="https://www.linkedin.com/in/nureni-taofeek/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2&labelColor=black&color=%230A66C2"></a>
+</p>
 
 
 
