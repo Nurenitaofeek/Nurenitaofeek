@@ -25,6 +25,15 @@ I am NURENI Taofeek Adesola, a graduate Civil engineer from Obafemi Awolowo Univ
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=%23512BD4&labelColor=black&color=%23512BD4">
 </p>
 
+---
+
+<ul>
+  <li>I am currently at my learning process of Frontend Web deveolopment using React </li>
+   <li>I have built some projects using HTML and CSS. Among which is <a href="https://> </li>
+   <li>I have been issued certicicate on some of programming language have succesfully learnt and completed. You can have a look at  </li>
+</ul>
+                                                                       
+<h3> I am open for collaboration. You are feel free to send me message! Even if u don't, send me a message anyway! Here is where you can find me
 
 
 
