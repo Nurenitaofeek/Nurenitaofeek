@@ -41,6 +41,13 @@ I am NURENI Taofeek Adesola, a graduate Civil engineer from Obafemi Awolowo Univ
 <a href="https://www.linkedin.com/in/nureni-taofeek/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2&labelColor=black&color=%230A66C2"></a>
 </p>
 
+---
+
+![Nurenitaofeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurenitaofeek&theme=radical&show_icons=true)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurenitaofeek&langs_count=8)
+
 
 
 
